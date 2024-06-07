@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FlickrImages</string>
+    <string name="general_something_went_wrong">Something went wrong!</string>
+    <string name="imageSearch_label_loading_please_wait">Loading, please wait.</string>
+    <string name="imageSearch_something_wrong_happened">Something wrong happened!</string>
+    <string name="imageSearch_click_to_search_images_on_flickr">Click to search images on Flickr</string>
+    <string name="imageSearch_emptyMessage">Use the search field to find images on Flickr!</string>
+</resources>
